@@ -35,16 +35,16 @@ This named Point-Of-Sales-App can insert data, update data, delete data etc and 
 - install all package like body-parser express etc
 - you can update/insert using postman
 #### Installation
--npm install
--npm init
--npm install express
--npm install nodemon
--npm install morgan
--npm install body-parser
--npm install mysql
--npm install dotenv
--npm install jsonwebtoken
--npm install cors
+- npm install
+- npm init
+- npm install express
+- npm install nodemon
+- npm install morgan
+- npm install body-parser
+- npm install mysql
+- npm install dotenv
+- npm install jsonwebtoken
+- npm install cors
 
 ## License
 
